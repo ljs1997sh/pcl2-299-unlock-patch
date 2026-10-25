@@ -1,0 +1,15 @@
+# 日志与临时文件
+*.log
+*.tmp
+node_modules/
+
+# 本地工具（自己从上游拿，见 README 第 5 节）
+dnlib.dll
+*.bak
+*.bak-*
+
+# 出货人自查记录：只留本机，绝不入库
+LOCAL-VERIFY.md
+
+# 例外：发布用的 exe 要进仓库，方便直接下载
+!out/*.exe
