@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 pcl2-299-unlock-patch contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+适用范围说明 / Scope
+
+本许可证只覆盖本仓库中的**补丁源码**（src/ 目录下的 .cs 与 .ps1）与**文档**。
+
+out/ 目录中的可执行文件是对 Plain Craft Launcher 2 的二进制修改产物，其原始代码
+的权利归上游作者所有，分发受《PCL 分发有限许可》约束（见 LICENSE-UPSTREAM.txt）。
+本仓库不对该二进制授予任何超出上游许可的权利。
